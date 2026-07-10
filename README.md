@@ -3,7 +3,7 @@
 ## Overview
 This repository hosts a modified version of the [Argoverse 2 (AV2) Motion Forecasting Dataset](https://argoverse.github.io/user-guide/argoverse_2.html). 
 
-To support research in robust trajectory prediction, we have extended the original AV2 dataset by introducing support for Vehicle-to-Everything (V2X) communication environments. Furthermore, we have modeled and applied realistic V2X noise—specifically introducing noise to position to reflect typical GNSS and perception errors.
+To support research in robust trajectory prediction, we have extended the original AV2 dataset by introducing support for Vehicle-to-Everything (V2X) communication environments. Furthermore, we have modeled and applied realistic V2X noise—specifically introducing typical GNSS error of V2X messages and perception errors.
 
 ## Dataset Availability
 **Status: Coming Soon**
